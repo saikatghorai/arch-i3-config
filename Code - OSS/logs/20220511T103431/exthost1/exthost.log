@@ -1,7 +1,0 @@
-[2022-05-11 10:34:36.616] [exthost] [info] Extension host with pid 1855 started
-[2022-05-11 10:34:37.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
-[2022-05-11 10:34:37.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
-[2022-05-11 10:34:37.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
-[2022-05-11 10:34:37.293] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
-[2022-05-11 10:34:37.553] [exthost] [info] extension host terminating: renderer closed the socket
-[2022-05-11 10:34:37.565] [exthost] [info] Extension host with pid 1855 exiting with code 0

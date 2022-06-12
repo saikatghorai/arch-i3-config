@@ -1,7 +1,0 @@
-[2022-05-21 19:52:47.649] [exthost] [info] Extension host with pid 2039 started
-[2022-05-21 19:52:47.910] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
-[2022-05-21 19:52:47.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-[2022-05-21 19:52:47.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
-[2022-05-21 19:52:48.009] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
-[2022-05-21 19:52:48.273] [exthost] [info] Extension host terminating: renderer closed the socket
-[2022-05-21 19:52:48.277] [exthost] [info] Extension host with pid 2039 exiting with code 0
