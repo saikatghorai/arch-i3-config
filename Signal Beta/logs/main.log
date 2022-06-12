@@ -1,0 +1,42 @@
+{"level":30,"time":"2022-01-04T13:09:59.899Z","pid":9137,"hostname":"B-E-T-H","msg":"MainSQL: updateSchema:\n  Current user_version: 44;\n  Most recent db schema: 44;\n  SQLite version: 3.36.0;\n  SQLCipher version: 4.5.0 community;\n  (deprecated) schema_version: 210;\n"}
+{"level":30,"time":"2022-01-04T13:09:59.915Z","pid":9137,"hostname":"B-E-T-H","msg":"app ready"}
+{"level":30,"time":"2022-01-04T13:09:59.915Z","pid":9137,"hostname":"B-E-T-H","msg":"starting version 5.26.0-beta.2"}
+{"level":30,"time":"2022-01-04T13:09:59.916Z","pid":9137,"hostname":"B-E-T-H","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2022-01-04T13:09:59.920Z","pid":9137,"hostname":"B-E-T-H","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-01-04T13:09:59.923Z","pid":9137,"hostname":"B-E-T-H","msg":"getSystemTraySetting got fast value DoNotUseSystemTray"}
+{"level":30,"time":"2022-01-04T13:09:59.923Z","pid":9137,"hostname":"B-E-T-H","msg":"getSystemTraySetting returning DoNotUseSystemTray"}
+{"level":30,"time":"2022-01-04T13:09:59.927Z","pid":9137,"hostname":"B-E-T-H","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":800,\"height\":694,\"minWidth\":712,\"minHeight\":550,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"backgroundColor\":\"#3a76f0\",\"webPreferences\":{\"devTools\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"contextIsolation\":false,\"preload\":\"[REDACTED]/preload.bundle.js\",\"nativeWindowOpen\":true,\"spellcheck\":true,\"backgroundThrottling\":false,\"enablePreferredSizeMode\":true},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":694,\"y\":56}"}
+{"level":30,"time":"2022-01-04T13:10:00.050Z","pid":9137,"hostname":"B-E-T-H","msg":"spellcheck: user locale: en-IN"}
+{"level":30,"time":"2022-01-04T13:10:00.050Z","pid":9137,"hostname":"B-E-T-H","msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2022-01-04T13:10:00.051Z","pid":9137,"hostname":"B-E-T-H","msg":"spellcheck: setting languages to:  [\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\"]"}
+{"level":30,"time":"2022-01-04T13:10:00.074Z","pid":9137,"hostname":"B-E-T-H","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-01-04T13:10:00.104Z","pid":9137,"hostname":"B-E-T-H","msg":"System tray service: created"}
+{"level":30,"time":"2022-01-04T13:10:00.105Z","pid":9137,"hostname":"B-E-T-H","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2022-01-04T13:10:00.105Z","pid":9137,"hostname":"B-E-T-H","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-01-04T13:10:00.106Z","pid":9137,"hostname":"B-E-T-H","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2022-01-04T13:10:00.121Z","pid":9137,"hostname":"B-E-T-H","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2022-01-04T13:10:00.125Z","pid":9137,"hostname":"B-E-T-H","msg":"Finish ensuring permissions in 19ms"}
+{"level":30,"time":"2022-01-04T13:10:02.932Z","pid":9137,"hostname":"B-E-T-H","msg":"main window is ready-to-show"}
+{"level":30,"time":"2022-01-04T13:10:02.932Z","pid":9137,"hostname":"B-E-T-H","msg":"showing main window"}
+{"level":30,"time":"2022-01-04T13:10:02.943Z","pid":9137,"hostname":"B-E-T-H","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-01-04T13:10:03.463Z","pid":9137,"hostname":"B-E-T-H","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":654,\"height\":694,\"x\":694,\"y\":56}"}
+{"level":30,"time":"2022-01-04T13:10:03.464Z","pid":9137,"hostname":"B-E-T-H","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-01-04T13:10:04.120Z","pid":9137,"hostname":"B-E-T-H","msg":"sending `database-ready`"}
+{"level":30,"time":"2022-01-04T13:10:05.368Z","pid":9137,"hostname":"B-E-T-H","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2022-01-04T13:10:05.749Z","pid":9137,"hostname":"B-E-T-H","msg":"App loaded - time: 5928"}
+{"level":30,"time":"2022-01-04T13:10:05.749Z","pid":9137,"hostname":"B-E-T-H","msg":"SQL init - time: 80"}
+{"level":30,"time":"2022-01-04T13:10:05.749Z","pid":9137,"hostname":"B-E-T-H","msg":"Preload - time: 1574"}
+{"level":30,"time":"2022-01-04T13:10:05.749Z","pid":9137,"hostname":"B-E-T-H","msg":"WebSocket connect - time: -1641301802672"}
+{"level":30,"time":"2022-01-04T13:10:05.749Z","pid":9137,"hostname":"B-E-T-H","msg":"Processed count: 0"}
+{"level":30,"time":"2022-01-04T13:10:05.749Z","pid":9137,"hostname":"B-E-T-H","msg":"Messages per second: 0"}
+{"level":30,"time":"2022-01-04T13:10:10.089Z","pid":9137,"hostname":"B-E-T-H","msg":"MainSQL: slow query getUnreadReactionsAndMarkRead duration=41ms"}
+{"level":30,"time":"2022-01-04T13:10:14.554Z","pid":9137,"hostname":"B-E-T-H","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1167,\"height\":694,\"x\":181,\"y\":56}"}
+{"level":30,"time":"2022-01-04T13:10:14.555Z","pid":9137,"hostname":"B-E-T-H","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-01-04T13:10:57.606Z","pid":9137,"hostname":"B-E-T-H","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-01-04T13:10:57.608Z","pid":9137,"hostname":"B-E-T-H","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-01-04T13:10:57.609Z","pid":9137,"hostname":"B-E-T-H","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2022-01-04T13:10:57.714Z","pid":9137,"hostname":"B-E-T-H","msg":"MainSQL: slow query close duration=80ms"}
+{"level":30,"time":"2022-01-04T13:10:57.718Z","pid":9137,"hostname":"B-E-T-H","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2022-01-04T13:10:57.728Z","pid":9137,"hostname":"B-E-T-H","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-01-04T13:10:57.729Z","pid":9137,"hostname":"B-E-T-H","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-01-04T13:10:57.775Z","pid":9137,"hostname":"B-E-T-H","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}
